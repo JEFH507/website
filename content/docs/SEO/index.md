@@ -1,7 +1,7 @@
 ---
 title: "SEO"
 date: 2023-05-02T00:16:40-05:00
-draft: false
+draft: true
 slug: ""
 description: ""
 tags: [""]

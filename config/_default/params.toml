@@ -47,8 +47,8 @@ disableImageOptimization = false
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showDateUpdated = false
   showAuthor = true
   showHero = true
@@ -115,13 +115,13 @@ disableImageOptimization = false
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+   apiKey = "AIzaSyBTOVKIwbm9_89Jpy-ibuUhxf9Gb2gQxIg"
+   authDomain = "viewslikes-bf428.firebaseapp.com"
+   projectId = "viewslikes-bf428"
+   storageBucket = "viewslikes-bf428.appspot.com"
+   messagingSenderId = "955077901271"
+   appId = "1:955077901271:web:37ddb8e5f556aee112e992"
+   measurementId = "G-C5MHVFX5C8"
 
 [fathomAnalytics]
   # site = "ABC12345"

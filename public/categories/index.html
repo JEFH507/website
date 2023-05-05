@@ -72,7 +72,6 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://theshaggyreport.com/categories/" /><meta property="og:site_name" content="The Shaggy Report" />
 
-
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Categories"/>
 <meta name="twitter:description" content="Marketing without social media dependency. compounding growth that is Measurable | Scalable | Predictable &amp; Sustainable."/>
@@ -115,6 +114,29 @@
   
   
   <meta name="theme-color"/>
+  
+  
+  
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script>
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyBTOVKIwbm9_89Jpy-ibuUhxf9Gb2gQxIg",
+      authDomain: "AIzaSyBTOVKIwbm9_89Jpy-ibuUhxf9Gb2gQxIg",
+      projectId: "viewslikes-bf428",
+      storageBucket: "viewslikes-bf428.appspot.com",
+      messagingSenderId: "955077901271",
+      appId: "1:955077901271:web:37ddb8e5f556aee112e992",
+      measurementId: "G-C5MHVFX5C8"
+    };
+
+    var app = firebase.initializeApp(firebaseConfig);
+    var db = firebase.firestore();
+    var auth = firebase.auth();
+
+  </script>
   
   
 </head>

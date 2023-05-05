@@ -1,7 +1,7 @@
 ---
 title: "Outside the Algorithm"
 date: 2023-05-02T00:16:41-05:00
-draft: false
+draft: true
 slug: ""
 description: ""
 tags: [""]
