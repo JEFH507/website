@@ -10,12 +10,6 @@ If you are looking at how to scale your business in the age of social media, but
 Exploring marketing solutions without social media dependency. Engineering compounding growth that is Measurable | Scalable | Predictable & Sustainable.
 
 {{< lead >}}
-SEO | Email Marketing | Content Strategy
+Profitable Insights on: SEO | Email Marketing | Content Strategy
 {{< /lead >}}
-
-
-{{< alert >}}
-
-**Want to get out of the matrix?** Sign up here for the Red Pill Marketing Newsletter, [Subscribe](https://javier-feliu.ck.page/9a04941d8b).
-
-{{</ alert >}}
+<script async data-uid="99db4e9842" src="https://javier-feliu.ck.page/99db4e9842/index.js"></script>
