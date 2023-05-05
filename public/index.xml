@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Marketing Services on Javier MKTG</title>
+    <title>Marketing Services on The Shaggy Report</title>
     <link>https://theshaggyreport.com/</link>
-    <description>Recent content in Marketing Services on Javier MKTG</description>
+    <description>Recent content in Marketing Services on The Shaggy Report</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
     <lastBuildDate>Sun, 30 Apr 2023 20:17:26 -0500</lastBuildDate><atom:link href="https://theshaggyreport.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started</title>
@@ -73,7 +74,7 @@
       <pubDate>Mon, 01 May 2023 00:16:53 -0500</pubDate>
       
       <guid>https://theshaggyreport.com/about/</guid>
-      <description>This is the new about page</description>
+      <description>Welcome to The Shaggy Report by Javier Feliu.</description>
       
     </item>
     
