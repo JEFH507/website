@@ -16,10 +16,6 @@ SEO | Email Marketing | Content Strategy
 
 {{< alert >}}
 
-**Want to get out of the matrix?** Sign up here for the Red Pill Marketing Newsletter, [Subscribe](https://www.javierfeliu.com).
+**Want to get out of the matrix?** Sign up here for the Red Pill Marketing Newsletter, [Subscribe](https://javier-feliu.ck.page/9a04941d8b).
 
 {{</ alert >}}
-
-This is a test of new firebase
-test2
-test 3

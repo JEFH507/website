@@ -13,11 +13,11 @@ enableSearch = true
 enableCodeCopy = true
 
  mainSections = ["docs"]
-# robots = ""
+ robots = "User-agent: * Disallow: /"
 
 disableImageOptimization = false
 
- defaultBackgroundImage = "IMAGE2.png" # used as default for background images 
+ defaultBackgroundImage = "logo.jpeg" # used as default for background images 
  defaultFeaturedImage = "IMAGE.png" # used as default for featured images in all articles
 
  highlightCurrentMenuArea = true
@@ -47,8 +47,8 @@ disableImageOptimization = false
 
 [article]
   showDate = true
-  showViews = true
-  showLikes = true
+  showViews = false
+  showLikes = false
   showDateUpdated = false
   showAuthor = true
   showHero = true

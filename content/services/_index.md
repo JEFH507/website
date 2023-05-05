@@ -3,7 +3,7 @@ title: "Services"
 date: 2023-05-01T13:54:45-05:00
 draft: false
 slug: ""
-description: "My SEO Services"
+description: "The Shaggy Report SEO | Content | Email Marketing Services"
 tags: [""]
 series: [""]
 series_order: 
@@ -20,5 +20,7 @@ showSummary : false
 sharingLinks : false
 ---
 {{< lead >}}
-My Services
+The Shaggy Report SEO | Content | Email Marketing Services
 {{< /lead >}}
+
+

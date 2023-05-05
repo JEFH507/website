@@ -5,18 +5,18 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Javier MKTG"
-#logo = "logo.jpeg"
+title = "The Shaggy Report"
+logo = "logo.png"
 description = "Marketing without social media dependency. compounding growth that is Measurable | Scalable | Predictable & Sustainable."
-# copyright = "Copy, _right?_ :thinking_face:"
+ copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
  [author]
-   name = "Javier MKTG"
+   name = "Javier Feliu"
    image = "logo.png"
    headline = "Living and Doing Businesses Outside the Algorithm"
-   bio = "A [Life] [Business] Independent Of BigTech"
+   bio = "Entrepreneur, business owner, engineer, and marketer."
    links = [
 #     { email = "mailto:javier@javierfeliu.com" },
 #     { link = "https://link-to-some-website.com/" },
