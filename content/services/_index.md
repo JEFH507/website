@@ -26,9 +26,11 @@ I love sharing my own journey but I will not be a business minded person I will 
 
 Contact me at javier(@)theshaggyreport.com for any of the following services:
 
->[SEO](): SEO Audits | Keyword Research | On-Page (Optimization)
+>[SEO](/services/seo): SEO Audits | Keyword Research | On-Page (Optimization)
+
+*Soon to come..*
 	
->[Content](): Content Strategy based on research
+>**Content Consultation**:
 	
->[Email Marketing](): Campaing Designs
+>**Email Marketing**:
 	

@@ -6,6 +6,25 @@
     <description>Recent content in Series on The Shaggy Report</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Copy, _right?_ :thinking_face:</copyright><atom:link href="https://theshaggyreport.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Fri, 05 May 2023 12:14:02 -0500</lastBuildDate><atom:link href="https://theshaggyreport.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SEO Services</title>
+      <link>https://theshaggyreport.com/series/seo-services/</link>
+      <pubDate>Fri, 05 May 2023 12:14:02 -0500</pubDate>
+      
+      <guid>https://theshaggyreport.com/series/seo-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital Marketing 101</title>
+      <link>https://theshaggyreport.com/series/digital-marketing-101/</link>
+      <pubDate>Tue, 02 May 2023 00:16:42 -0500</pubDate>
+      
+      <guid>https://theshaggyreport.com/series/digital-marketing-101/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
