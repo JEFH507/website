@@ -3,12 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
+  
+    
       <url>
             <loc>https://theshaggyreport.com/services/</loc>
             <lastmod>2023-05-01T13:54:45-05:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
     
   
     
@@ -45,8 +49,6 @@
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
     
   
     
