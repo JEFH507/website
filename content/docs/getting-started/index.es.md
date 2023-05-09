@@ -23,7 +23,7 @@ showAuthorsBadges : false
 
 ** ¡Esta es una serie de 6 partes para llevarte de “Zero to Hero”. La actualizaré constantemente para que cualquiera tenga una guía simple para hacer marketing digital sin dependencia de redes sociales, por su propia cuenta! Buscare los mejores recursos que puedo encontrar en línea y los resumire aquí.**
 
-El marketing digital se ha convertido en un componente vital de cualquier negocio que busque aumentar su presencia en línea y atraer más tráfico a su sitio web. Entre las diversas tácticas que componen el marketing digital, el marketing de contenido, el marketing por correo electrónico y la optimización de motores de búsqueda (SEO) conforman tres pilares que pueden ayudar a las empresas a generar clientes potenciales, crear conciencia de marca y, en última instancia, aumentar los *ingresos*. Dije ingresos porque, en última instancia, las ganancias dependen de ti y de tu modelo de negocio.
+El marketing digital se ha convertido en un componente vital de cualquier negocio que busque aumentar su presencia en línea y atraer más tráfico a su sitio web. Entre las diversas tácticas que componen el marketing digital, el marketing de contenido, el marketing por correo electrónico y la optimización de motores de búsqueda (SEO) conforman tres pilares que pueden ayudar a las empresas a generar clientes potenciales, crear conciencia de marca y, y lo más importante, aumentar los *ingresos*. Dije ingresos porque, en última instancia, las ganancias dependen de ti y de tu modelo de negocio.
 
 ### Content Marketing
 
