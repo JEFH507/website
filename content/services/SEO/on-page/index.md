@@ -20,7 +20,7 @@ showSummary : false
 sharingLinks : false
 ---
 {{< lead >}}
-Replace
+On-Page SEO
 {{< /lead >}}
 
 On-Page optimization is the actual implementation of all the areas of improvement in an SEO audit and is fueled by keyword research and competitor analysis. This phase can take months, depending on your site size and how many essential pages we need to optimize.

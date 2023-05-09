@@ -6,7 +6,12 @@ slug: ""
 description: ""
 tags: [""]
 series: [""]
-series_order: 
+series_order:
+showAuthor: false
+authors:
+  - "javierfeliu"
+  - "josefeliu"
+showAuthorsBadges : false  
 
 showDate : false
 showDateUpdated : false

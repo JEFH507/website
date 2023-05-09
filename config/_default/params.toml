@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
- mainSections = ["docs", "posts"]
+ mainSections = ["posts", "news", "docs"]
  robots = "User-agent: * Disallow: /"
 
 disableImageOptimization = false
@@ -38,9 +38,9 @@ disableImageOptimization = false
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "logo.jpeg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 6
+  showRecentItems = 8
   showMoreLink = true
-  showMoreLinkDest = "/docs"
+  showMoreLinkDest = "posts"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background

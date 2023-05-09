@@ -2,11 +2,10 @@
 title: "Docs"
 date: 2023-05-01T00:00:01-05:00
 draft: false
-description: "Learn how to use Blowfish and its features."
+description: "A series of 'How To Guides' that will give you tools for increasing your sales."
 
 ---
 {{< lead >}}
-A series of introductory easy steps toward your digital marketing journey.
+A series of "How To Guides" that will give you tools for increasing your sales. Mainly focus on digital marketing but definitely not limited by it.
 {{< /lead>}}
 
-SEO Related Tutorials

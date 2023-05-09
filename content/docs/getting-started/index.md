@@ -3,10 +3,15 @@ title: "Getting Started"
 date: 2023-05-02T00:16:42-05:00
 draft: false
 slug: ""
-description: ""
+description: "Content Marketing, Email Marketing, and SEO: Three Pillars of Digital Marketing That You Can Implement Today!"
 tags: [""]
 series: ["Digital Marketing 101"]
 series_order: 1
+showAuthor: false
+authors:
+  - "javierfeliu"
+  - "josefeliu"
+showAuthorsBadges : false 
 
 showDate : false
 showDateUpdated : false

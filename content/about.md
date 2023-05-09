@@ -14,14 +14,26 @@ showTaxonomies : false
 showWordCount : false
 showSummary : false
 ---
-Welcome to The Shaggy Report *by Javier Feliu.*
+{{< alert >}}
+{{< typeit 
+  tag=h4
+  speed=50 
+  lifeLike=true
+>}}
+**Warning!** Profitable insights that will change the way we do business!
+{{< /typeit >}}
+{{< /alert >}}
 
-This is an independent effort to track the success stories of businesses and creators that have mastered their craft without compromising their integrity or their sanity in a world that is overflowed with content, data, and information. 
+Welcome to The Shaggy Report,
 
-After owning a business for many years, and came to realize how much impact a good marketing strategy and implementation can make or break your business. I decided to dive deep into Digital Marketing, focusing on the bottom line for business. If there are no profits, there is no business.
+This is an independent publication that tracks success stories of businesses and creators that have mastered their craft without compromising their integrity or their sanity in a world saturated with content, data, and information. 
 
-You will also find here resources that I wish I had known before managing my business. If you are a business owner, marketer, or curious mind, then check out some of the insights I share here on how others are able to run their businesses with a marketing approach.
+After owning several small businesses for many years, we realized how much impact a good administration, marketing strategy, and implementation can make or break your business. We decided to dive deep into Digital Marketing, focusing on the bottom line for business. If there are no profits, there is no business.
 
-The Shaggy Report is a Digital Marketing effort to reach new audiences without becoming dependent and addicted to social media. This is important because you do not own your own platform, and you should. Social media is a great tool. Make no mistake, you can have tremendous success with it, but if you are part of that small percentage of the population that does not want to surrender their life to an algorithm, then you are my kind of mind.
+You will also find resources I wish I had known before managing our business here. If you are a business owner, marketer, or curious mind, then check out some of the insights we share here on how others are able to run their businesses. We mainly focus on client acquisition, marketing, and big-picture strategy.
 
- [Learn more about our services](/services)
+One of our goals is to encourage and empower you to succeed on your own terms, not the Big Tech way of doing things. Platforms come and go, but a good business is here to stay for many generations. We want to help you reach new audiences without relying only on social media or other platforms. 
+
+This is important because you do not own your own platform, and you should. Social media is a great tool. Make no mistake, you can have tremendous success with it, but if you are part of that small percentage of the population that does not want to surrender their life to an algorithm, then you are a mind after our own heart.
+
+ [Learn more about our services](services)

@@ -1,0 +1,13 @@
+{
+    "name": "Javier Feliu",
+    "image" : "assets/javierfeliu.jpg",
+    "bio": "Co-Founder",
+    "social": [
+        { "linkedin": "https://www.linkedin.com/in/javier-enrique-feliu-horne-5202141a8/" },
+        { "twitter": "https://twitter.com/JavierFeliuH" },
+        { "instagram": "https://www.instagram.com/javsfeliu/" },
+        { "github": "https://github.com/JEFH507/" },
+        { "link": "https://javierfeliu.com/" }
+    
+    ]
+}

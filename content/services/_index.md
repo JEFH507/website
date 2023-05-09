@@ -22,11 +22,17 @@ showSummary : false
 The Shaggy Report - SEO | Content | Email Marketing Services
 {{< /lead >}}
 
-I love sharing my own journey but I will not be a business minded person if I not offer you a solution that is worth something in exanche for you not to need to do it yourself.
+Hey there! Amazing, you have found this probably at the footer menu, and here we thought it was well hidden. 
 
-Contact me at javier(@)theshaggyreport.com for any of the following services:
+We (Javier & Jose) are not a marketing agency or a business consulting company. We are mainly in the business of transferring good and actionable information.
 
->[SEO](/services/seo): SEO Audits | Keyword Research | On-Page (Optimization)
+If you insist on continuing reading, we offer specific Digital Marketing and Business Consulting services.
+
+Read more on this below, and feel free to contact us via email if you are interested in discussing how we can help your business.
+
+Contact me at info(@)theshaggyreport.com for any of the following services:
+
+>[SEO](seo): SEO Audits | Keyword Research | On-Page (Optimization)
 
 *Soon to come...*
 	

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on The Shaggy Report</title>
+    <link>https://theshaggyreport.com/es/authors/</link>
+    <description>Recent content in Authors on The Shaggy Report</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Tue, 02 May 2023 00:16:42 -0500</lastBuildDate><atom:link href="https://theshaggyreport.com/es/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>javierfeliu</title>
+      <link>https://theshaggyreport.com/es/authors/javierfeliu/</link>
+      <pubDate>Tue, 02 May 2023 00:16:42 -0500</pubDate>
+      
+      <guid>https://theshaggyreport.com/es/authors/javierfeliu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>josefeliu</title>
+      <link>https://theshaggyreport.com/es/authors/josefeliu/</link>
+      <pubDate>Tue, 02 May 2023 00:16:42 -0500</pubDate>
+      
+      <guid>https://theshaggyreport.com/es/authors/josefeliu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
