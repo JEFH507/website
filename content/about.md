@@ -36,4 +36,3 @@ One of our goals is to encourage and empower you to succeed on your own terms, n
 
 This is important because you do not own your own platform, and you should. Social media is a great tool. Make no mistake, you can have tremendous success with it, but if you are part of that small percentage of the population that does not want to surrender their life to an algorithm, then you are a mind after our own heart.
 
- [Learn more about our services](/services)

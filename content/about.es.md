@@ -36,5 +36,4 @@ Las plataformas vienen y van, pero un buen negocio está aquí para quedarse dur
 
 Esto es importante porque tu, no eres dueño de tu audiencia cuando estás en una plataforma como redes sociales. Las redes sociales son una gran herramienta. De seguro puedes llegar a tener un gran alcance, pero si eres parte de ese pequeño porcentaje de la población que no quiere depender de un algoritmo, entonces tenemos algunas cosas en común.
 
-[Conoce más sobre nuestros servicios](/es/services)
 

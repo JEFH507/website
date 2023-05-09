@@ -13,7 +13,7 @@ enableSearch = true
 enableCodeCopy = true
 
  mainSections = ["posts", "news", "docs"]
- robots = "User-agent: * Disallow: /"
+ robots = ""
 
 disableImageOptimization = false
 
