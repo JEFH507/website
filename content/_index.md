@@ -7,7 +7,7 @@ date: 2023-04-30T20:17:26-05:00
 ---
 {{< typeit 
   tag=h2
-   speed=50
+   speed=40
   lifeLike=true
 >}}
 Welcome to The Shaggy Report, Profitable insights that will change the way we do business.
@@ -16,6 +16,6 @@ Welcome to The Shaggy Report, Profitable insights that will change the way we do
 This is a curated newsletter report on success stories that may inspire how you and I can do business, especially without depending on Social Media Platforms. 
 
 {{< lead >}}
-Engineering compounding growth that is Measurable | Scalable | Predictable & Sustainable.
+Engineering compounding growth that is Measurable | Scalable | Predictable & Sustainable in less tan 3 minutes.
 {{< /lead >}}
 <script async data-uid="99db4e9842" src="https://javier-feliu.ck.page/99db4e9842/index.js"></script>

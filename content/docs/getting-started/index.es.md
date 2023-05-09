@@ -1,5 +1,5 @@
 ---
-title: "Getting Started"
+title: "Getting Started: Marketing Digital 101"
 date: 2023-05-02T00:16:42-05:00
 draft: false
 slug: ""
@@ -12,17 +12,6 @@ authors:
   - "javierfeliu"
   - "josefeliu"
 showAuthorsBadges : false 
-
-showDate : false
-showDateUpdated : false
-showHeadingAnchors : false
-showPagination : false
-showReadingTime : false
-showTableOfContents : true
-showTaxonomies : false 
-showWordCount : false
-showSummary : false
-sharingLinks : false
 ---
 {{< lead >}}
 
