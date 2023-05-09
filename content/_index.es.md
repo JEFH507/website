@@ -13,7 +13,7 @@ date: 2023-04-30T20:17:26-05:00
 Bienvenidos a The Shaggy Report, ideas rentables que cambiarán la forma en que hacemos negocios.
 {{< /typeit >}}
 
-Este es un Newsletter con articulos selectos sobre historias de éxito que pueden inspirar cómo tú y yo podemos hacer negocios, especialmente sin depender de las plataformas de redes sociales.
+Un Newsletter con articulos selectos sobre historias de éxito que pueden inspirar cómo tú y yo podemos hacer negocios, especialmente sin depender de las plataformas de redes sociales.
 
 {{< lead >}}
 Engineering compounding growth that is Measurable | Scalable | Predictable & Sustainable.
