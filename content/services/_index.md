@@ -39,4 +39,3 @@ Contact me at info(@)theshaggyreport.com for any of the following services:
 >**Content Consultation**:
 	
 >**Email Marketing**:
-	

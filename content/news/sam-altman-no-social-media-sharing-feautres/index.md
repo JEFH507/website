@@ -36,5 +36,8 @@ Our purpose as a business is to create something that has value. In the crossroa
 
 To be future-proof, businesses need to look beyond their current success and prepare for upcoming developments that may render them obsolete or offer new opportunities. Staying up-to-date with new technology and cultural trends allows for quick changes that can enable you to ride the waves or even make them.
 
-
+{{< lead >}}
+Subscribe now for more articles like this. You'll get fresh ideas and practical advice you can use, in less than 3 minutes. Stay ahead of the curve!
+{{< /lead >}}
+<script async data-uid="99db4e9842" src="https://javier-feliu.ck.page/99db4e9842/index.js"></script>
 

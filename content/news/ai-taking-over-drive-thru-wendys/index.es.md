@@ -30,3 +30,8 @@ Si bien el movimiento hacia la inteligencia artificial y la automatización en l
 
 >Krishna Gupta, presidente interino y CEO de Presto, recientemente dijo a [Bloomberg](https://www.bloomberg.com/news/videos/2023-05-01/ai-s-impact-on-the-restaurant-industry-video) Television que no cree que en tres años haya un servicio de drive-thru donde un humano tome tus pedidos. Con Wendy's probando su chatbot impulsado por inteligencia artificial, parece que el futuro de la industria de comida rápida se está volviendo cada vez más automatizado.
 
+{{< lead >}}
+¡Suscríbete ahora por más articulos como este y mantenerte un paso por adelante! Obtendrás nuevas ideas y consejos prácticos, en menos de 3 minutos.
+{{< /lead >}}
+<script async data-uid="c675c53081" src="https://javier-feliu.ck.page/c675c53081/index.js"></script>
+

@@ -35,3 +35,9 @@ Pero, ¿dónde aterriza la gente cuando otros empiezan a hablar de ti? Puede ser
 Nuestro propósito como negocio es crear algo que tenga valor. En la encrucijada de nuevos avances tecnológicos y las necesidades de un nuevo mundo, se pueden crear grandes valor en grandes proporciones.
 
 Para manterte siempre a prueba de cambios, los negocios deben mirar más allá de su éxito actual y prepararse para los próximos desarrollos que puedan volverlos obsoletos u ofrecer nuevas oportunidades. Mantenerse al día con las nuevas tendencias tecnológicas y culturales permite cambios rápidos que pueden permitirte montar las olas o incluso crearlas.
+
+{{< lead >}}
+¡Suscríbete ahora por más articulos como este y mantenerte un paso por adelante! Obtendrás nuevas ideas y consejos prácticos, en menos de 3 minutos.
+{{< /lead >}}
+<script async data-uid="c675c53081" src="https://javier-feliu.ck.page/c675c53081/index.js"></script>
+

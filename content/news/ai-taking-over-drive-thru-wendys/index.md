@@ -30,3 +30,9 @@ This marks the latest instance of the fast-food chain using cutting-edge technol
 While the move towards AI and automation in the fast food industry has been a source of controversy, many experts believe that this technology will help businesses streamline their operations and improve the customer experience. Additionally, the debut of OpenAI's ChatGPT in 2022 has led to a surge in interest in AI chatbots among both investors and the general public. This has prompted a fierce competition among tech giants like Alphabet and Microsoft to integrate this new chatbot technology into various industries, including the business world.
 
 >Krishna Gupta, Presto's chairman and interim chief executive officer, recently told [Bloomberg](https://www.bloomberg.com/news/videos/2023-05-01/ai-s-impact-on-the-restaurant-industry-video) Television that he does not believe that in three years, there will be a drive-thru having a human take your orders. With Wendy's now testing its AI-powered chatbot, it seems that the future of the fast food industry is becoming increasingly automated.
+
+{{< lead >}}
+Subscribe now for more articles like this. You'll get fresh ideas and practical advice you can use, in less than 3 minutes. Stay ahead of the curve!
+{{< /lead >}}
+<script async data-uid="99db4e9842" src="https://javier-feliu.ck.page/99db4e9842/index.js"></script>
+
