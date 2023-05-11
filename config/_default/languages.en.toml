@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
  [author]
    name = "The Shaggy Report"
    image = "logo.png"
-   headline = "Doing Businesses Outside the Algorithm"
+   headline = "{{< typeit tag=h2 speed=40 lifeLike=true >}} Doing Businesses Outside the Algorithm {{< /typeit >}}"
    bio = "You got to love dogs( I like cats too!)."
    links = [
 #     { email = "mailto:javier@javierfeliu.com" },

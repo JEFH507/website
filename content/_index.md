@@ -5,17 +5,21 @@ draft: false
 date: 2023-04-30T20:17:26-05:00
 
 ---
-{{< typeit 
-  tag=h2
-   speed=40
-  lifeLike=true
->}}
-Welcome to The Shaggy Report, Profitable insights that will change the way we do business.
-{{< /typeit >}}
+<h2> Profitable insights that will change the way we do business. </h2> 
 
-This is a curated newsletter report on success stories that may inspire how you and I can do business, especially without depending on Social Media Platforms. 
+Get inspired to grow your business in the face of constant technological change with our weekly newsletter.
 
 {{< lead >}}
-Engineering compounding growth that is Measurable | Scalable | Predictable & Sustainable in less than 3 minutes.
+You'll get fresh ideas and practical advice you can use, in less than 3 minutes. Subscribe now to stay ahead of the curve!
 {{< /lead >}}
 <script async data-uid="99db4e9842" src="https://javier-feliu.ck.page/99db4e9842/index.js"></script>
+
+ {{< typeit 
+  speed=50
+  breakLines=false
+  loop=true
+>}}
+We have a particular interest on growth, 
+without depending on Social Media Platforms. 
+{{< /typeit >}}
+

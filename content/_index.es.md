@@ -5,17 +5,21 @@ draft: false
 date: 2023-04-30T20:17:26-05:00
 
 ---
-{{< typeit 
-  tag=h2
-   speed=40
-  lifeLike=true
->}}
-Bienvenidos a The Shaggy Report, ideas rentables que cambiarán la forma en que hacemos negocios.
-{{< /typeit >}}
+<h2> Ideas rentables que cambiarán la forma en que hacemos negocios. </h2> 
 
-Un Newsletter con articulos selectos sobre historias de éxito que pueden inspirar cómo tú y yo podemos hacer negocios, especialmente sin depender de las plataformas de redes sociales.
+Inspírate para hacer crecer tu negocio frente al constante cambio tecnológico con nuestro newsletter semanal.
 
 {{< lead >}}
-Engineering compounding growth that is Measurable | Scalable | Predictable & Sustainable in less than 3 minutes.
+Obtendrás nuevas ideas y consejos prácticos, en menos de 3 minutos. ¡Suscríbete ahora para mantenerte un paso por adelante!
 {{< /lead >}}
 <script async data-uid="c675c53081" src="https://javier-feliu.ck.page/c675c53081/index.js"></script>
+
+ {{< typeit 
+  speed=50
+  breakLines=false
+  loop=true
+>}}
+Tenemos un interés particular en el crecimiento,
+sin depender de las Plataformas de Redes Sociales.
+{{< /typeit >}}
+
