@@ -9,6 +9,7 @@ tags: ["AI"]
 showAuthor: false
 authors:
   - "javierfeliu"
+  - "josefeliu"
 showAuthorsBadges : false  
 ---
 {{< lead >}}

@@ -8,6 +8,7 @@ tags: ["AI"]
 showAuthor: false
 authors:
   - "javierfeliu"
+  - "josefeliu"
 showAuthorsBadges : false  
 ---
 ## Sam Altman-Chat GPT, "Cuestionando los años de consejos que di a las startups"

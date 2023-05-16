@@ -8,6 +8,7 @@ tags: ["Local SEO"]
 showAuthor: false
 authors:
   - "javierfeliu"
+  - "josefeliu"
 showAuthorsBadges : false  
 ---
 {{< lead >}}
