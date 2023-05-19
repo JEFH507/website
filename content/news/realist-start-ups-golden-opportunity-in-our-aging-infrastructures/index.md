@@ -1,5 +1,5 @@
 ---
-title: "A Golden Opportunity Beckons: Realist Start-ups Needed to Revitalize Our Aging Infrastructure"
+title: "A golden opportunity beckons: Realist Start-ups needed to revitalize our aging infrastructure"
 date: 2023-05-16T10:45:04-05:00
 draft: false
 slug: ""

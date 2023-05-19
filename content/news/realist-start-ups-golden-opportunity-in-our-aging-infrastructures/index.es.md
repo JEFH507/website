@@ -1,5 +1,5 @@
 ---
-title: "Una Oportunidad Dorada se avecina: Se necesitan Start-ups Realistas para Revitalizar Nuestro Mundo Construido Envejecido"
+title: "Una portunidad dorada se avecina: Se necesitan Start-ups realistas para revitalizar nuestro mundo construido envejecido"
 date: 2023-05-16T10:45:04-05:00
 draft: false
 slug: ""
