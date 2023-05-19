@@ -29,7 +29,7 @@ in 2023.
 Tech Layoffs in 2023: A Comprehensive List
 {{< /lead >}}
 
-A summary of the article ["A comprehensive list of 2023 tech layoffs"](https://techcrunch.com/2023/05/18/tech-industry-layoffs/) by Natasha Mascarenhas and Alyssa Stringer, feature in [TechCrunch](https://techcrunch.com/):
+A summary of the article ["A comprehensive list of 2023 tech layoffs"](https://techcrunch.com/2023/05/18/tech-industry-layoffs/) by Natasha Mascarenhas and Alyssa Stringer, featured in [TechCrunch](https://techcrunch.com/):
 
 Do you feel safe working in tech this year? On the surface, it appears as if major tech giants are trying to shrink their payroll. One can't help but wonder to what extent they're striving to achieve greater efficiency, aiming to accomplish more with less.
 
