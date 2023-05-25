@@ -24,8 +24,6 @@ Navigating the Crossroads of Privacy and Profit
 When the EU's privacy watchdog barks, Meta finds itself in a tight spot.
 {{< /lead >}}
 
-Heading: "Navigating the Crossroads of Privacy and Profit"
-
 {{< alert "twitter" >}}
 Don't forget to [follow me](https://twitter.com/com/JavierFeliuH) on Twitter.
 {{< /alert >}}
